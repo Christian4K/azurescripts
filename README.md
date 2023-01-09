@@ -1,0 +1,2 @@
+# azurescripts
+Public Azure Scripts
